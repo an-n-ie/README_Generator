@@ -12,7 +12,9 @@ The following image shows the application's appearance and functionality:
 
 ## Credits
 
+https://www.npmjs.com/package/inquirer/v/8.2.4
 
+https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 ## URL
 
