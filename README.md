@@ -2,13 +2,13 @@
 
 ## Description
 
-The application generates a professional README.md file from the user's input.
+A professional README.md generator containing information from the user's input.
 
 ## Usage
 
-The following image shows the application's appearance and functionality:
+The following is a walkthrough video of its appearance and functionality:
 
-![README Generator](./Assets/Weather-Dashboard.png)
+https://drive.google.com/file/d/1KjyuYe9kxeU3Rbv_JNtvge4XIcMwovUw/view
 
 ## Credits
 
@@ -16,8 +16,10 @@ https://www.npmjs.com/package/inquirer/v/8.2.4
 
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
-## URL
+https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
+
+## Questions
 
 GitHub: https://github.com/an-n-ie/README_Generator
 
-Website: https://an-n-ie.github.io/README_Generator/
+Email: anniehoang.anh@gmail.com
